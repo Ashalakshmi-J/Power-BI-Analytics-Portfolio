@@ -4,7 +4,7 @@ Welcome to my Business Intelligence workspace! As an MSc IT graduate, this repos
 
 ## 📊 Dashboard Visual Interface
 
-![Power BI Dashboard](POWER BI PROJECT DASHBOARD.png)
+![Power BI Dashboard](POWER BI PROJECT DASHBOARD.png) 
 
 ## 🛠️ Technical Skills Demonstrated
 - **Data Ingestion & Transformation (ETL):** Standardized, unpivoted, and partitioned raw global survey records using **Power Query**.
